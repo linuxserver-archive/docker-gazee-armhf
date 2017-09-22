@@ -101,4 +101,5 @@ Happy Reading!
 
 ## Versions
 
++ **20.09.17:** Use python3 baseimage.
 + **15.09.17:** Initial Release.
