@@ -101,6 +101,7 @@ Happy Reading!
 
 ## Versions
 
++ **30.12.17:** Ensure version 11 of cherrypy.
 + **07.10.17:** Sed requirements file to use greater than rather than fixed versions.
 + **20.09.17:** Use python3 baseimage.
 + **15.09.17:** Initial Release.
