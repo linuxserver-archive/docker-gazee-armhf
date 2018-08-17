@@ -1,4 +1,4 @@
-FROM lsiobase/alpine.python3.armhf:3.7
+FROM lsiobase/alpine.python3.armhf:3.8
 
 # set version label
 ARG BUILD_DATE

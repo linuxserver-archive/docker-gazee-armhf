@@ -101,6 +101,7 @@ Happy Reading!
 
 ## Versions
 
++ **17.08.18:** Rebase to alpine 3.8.
 + **30.12.17:** Ensure version 11 of cherrypy.
 + **07.10.17:** Sed requirements file to use greater than rather than fixed versions.
 + **20.09.17:** Use python3 baseimage.
