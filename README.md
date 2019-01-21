@@ -5,6 +5,8 @@
 [appurl]: https://github.com/hubbcaps/gazee
 [hub]: https://hub.docker.com/r/lsioarmhf/gazee/
 
+THIS IMAGE IS DEPRECATED. PLEASE USE THE MULTI-ARCH IMAGES AT `linuxserver/gazee`
+
 [![linuxserver.io](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/linuxserver_medium.png)][linuxserverurl]
 
 The [LinuxServer.io][linuxserverurl] team brings you another container release featuring easy user mapping and community support. Find us for support at:
@@ -101,6 +103,7 @@ Happy Reading!
 
 ## Versions
 
++ **20.01.19:** This image is deprecated. Please use the multi-arch images at linuxserver/gazee
 + **17.08.18:** Rebase to alpine 3.8.
 + **30.12.17:** Ensure version 11 of cherrypy.
 + **07.10.17:** Sed requirements file to use greater than rather than fixed versions.
